@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Doctor_dashboard/static/css/main.d2c3c277.css",
+    "main.js": "/Doctor_dashboard/static/js/main.b28884b3.js",
+    "index.html": "/Doctor_dashboard/index.html",
+    "main.d2c3c277.css.map": "/Doctor_dashboard/static/css/main.d2c3c277.css.map",
+    "main.b28884b3.js.map": "/Doctor_dashboard/static/js/main.b28884b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2c3c277.css",
+    "static/js/main.b28884b3.js"
+  ]
+}
